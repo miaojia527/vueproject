@@ -16,6 +16,7 @@ import 'muse-ui-message/dist/muse-ui-message.css';
 import Message from 'muse-ui-message';
 
 import 'amfe-flexible/index.js'
+import './icons'
 
 Vue.config.productionTip = false
 Vue.use(MuseUI);

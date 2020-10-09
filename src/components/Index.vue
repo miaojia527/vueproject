@@ -1,5 +1,5 @@
 <template>
-	<mu-container class="index-container qr-container">
+	<mu-container class="qr-container pt10">
 		<div class="bg">
 			Hello World
 		</div>
